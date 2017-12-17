@@ -6,11 +6,11 @@ target 'ReactiveMVVM' do
   use_frameworks!
 
   # Pods for ReactiveMVVM
-  pod 'RealmSwift'
-  pod 'RxRealm'
-  pod 'Moya-ObjectMapper/RxSwift'
-  pod 'Moya/RxSwift'
-  pod 'RxCocoa'
-  pod 'ReachabilitySwift'
-  pod 'SDWebImage'
+  pod 'RealmSwift', '~> 3.0.2'
+  pod 'RxRealm', '~> 0.7.5'
+  pod 'Moya-ObjectMapper/RxSwift', '~> 2.5'
+  pod 'Moya/RxSwift', '10.0.1'
+  pod 'RxCocoa', '~> 4.0.0'
+  pod 'ReachabilitySwift', '~> 4.1.0'
+  pod 'SDWebImage', '~> 4.2.2'
 end
