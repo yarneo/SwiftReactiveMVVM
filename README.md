@@ -27,4 +27,8 @@ This entire project is using reactive programming and the project folder hierarc
 * ObjectMapper is used  to make the parsing of the returned JSON from the server into a Swift Object as easy as possible.
 * RxSwift is used  for making everything reactive :)
 
+<img width="407" alt="screen shot 2017-12-17 at 11 40 59 am" src="https://user-images.githubusercontent.com/4066863/34081721-b43e808c-e31f-11e7-8724-4ede347607fc.png">
+<img width="410" alt="screen shot 2017-12-17 at 11 41 28 am" src="https://user-images.githubusercontent.com/4066863/34081722-b5eea63c-e31f-11e7-9137-724f4be9057f.png">
+
+
 ### Feel free to contribute to this project if you see any places for improvement, happy Swifting!
